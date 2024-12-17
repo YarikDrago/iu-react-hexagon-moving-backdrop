@@ -4,7 +4,7 @@ A React component that renders animated hexagonal tracers.
 
 ## How to use
 
-Import the HexagonMovingBackdrop component from the 'iu-hex-moving-backdrop' module and include it in your project:
+Import the HexagonMovingBackdrop component from the 'iu-react-hexagon-moving-backdrop' module and include it in your project:
 
 ```tsx
 import {HexagonMovingBackdrop} from 'iu-react-hexagon-moving-backdrop';
