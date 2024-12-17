@@ -1,6 +1,6 @@
 {
   "name": "iu-react-hexagon-moving-backdrop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The hexagon moving backdrop",
   "main": "./dist/index.js",
   "scripts": {
