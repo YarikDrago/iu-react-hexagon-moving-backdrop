@@ -1,0 +1,26 @@
+{
+  "name": "iu-react-hexagon-moving-backdrop",
+  "version": "1.0.0",
+  "description": "The hexagon moving backdrop",
+  "main": "./dist/index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "pub": "webpack && npm version patch && npm publish"
+  },
+  "author": "IU",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "css-loader": "^7.1.2",
+    "mini-css-extract-plugin": "^2.9.2",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "peerDependencies": {
+    "react-dom": "*"
+  }
+}
